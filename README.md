@@ -10,6 +10,7 @@ To run resilient compute loads at the edge with little to no intervention, autom
 
 1.  KISS (why did we choose k8s????)
 2.  Zero manual intervention (edge cases… oh god)
+3.  Re-use as many other Open Source packages as possible (don't reinvent the wheel)
 
 ### 3. Assumptions
 
